@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{3FC9FC8F-FEDA-45CA-BA4A-B60F485E4F1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{DAB19860-13F2-494F-B63B-3E57F3E45D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8C94506B-1F93-448C-A483-0535182415A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{3FC9FC8F-FEDA-45CA-BA4A-B60F485E4F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC9FC8F-FEDA-45CA-BA4A-B60F485E4F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC9FC8F-FEDA-45CA-BA4A-B60F485E4F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB19860-13F2-494F-B63B-3E57F3E45D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB19860-13F2-494F-B63B-3E57F3E45D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB19860-13F2-494F-B63B-3E57F3E45D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB19860-13F2-494F-B63B-3E57F3E45D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C94506B-1F93-448C-A483-0535182415A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C94506B-1F93-448C-A483-0535182415A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C94506B-1F93-448C-A483-0535182415A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C94506B-1F93-448C-A483-0535182415A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
